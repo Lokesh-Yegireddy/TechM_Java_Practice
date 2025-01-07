@@ -8,5 +8,6 @@ public class arrayDemo {
     	  {
     		  System.out.println(arr[i]);
     	  }
+    	  System.out.println("Thank you");
       }
 }
