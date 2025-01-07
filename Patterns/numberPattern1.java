@@ -22,5 +22,23 @@ public class numberPattern1 {
         	 }
         	 System.out.println();
          }
+         
+         /*Pattern
+
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+
+Reverse Pattern
+
+4 4 4 4 
+3 3 3 
+2 2 
+1 
+
+
+          
+          */
 }
 }
