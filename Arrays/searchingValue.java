@@ -19,7 +19,7 @@ public class searchingValue {
        	  {
        		 if(key==arr[i]) 
        		 {
-       			System.out.println("Element "+key+" is Found at location "+(i+1));
+       			System.out.println("Element "+key+" is Found at location "+(i));
        		    break;
        		    //return;
        		  }    	 
